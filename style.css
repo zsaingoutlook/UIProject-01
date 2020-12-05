@@ -49,6 +49,12 @@ body{
     background-color: rgb(168, 66, 66);
 }
 
+.section-1>p{
+    padding: 2rem 1.5rem;
+    text-align: justify;
+    
+}
+
 .section-2{
     display: flex;
     
